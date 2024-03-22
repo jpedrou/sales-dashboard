@@ -1,7 +1,5 @@
 # *Sales Dashboard*
 
-https://sales-dashboard-eqrb.onrender.com
-
 > **Objective**
 
 The dashboard was created with the aim of representing the monitoring of a company's sales per month.
