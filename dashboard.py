@@ -24,6 +24,7 @@ df = pd.read_excel('data/dados.xlsx',
 
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
+server = app.server
 
 df_product = html.Div([
     html.H6('Total Sales per Product (Month)', style={'font-style': 'normal',
